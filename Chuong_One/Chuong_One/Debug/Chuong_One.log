@@ -1,0 +1,3 @@
+﻿  Figures.cpp
+D:\OOP\Chuong_One\Chuong_One\Figures.cpp(46,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Chuong_One.vcxproj -> D:\OOP\Chuong_One\Debug\Chuong_One.exe
